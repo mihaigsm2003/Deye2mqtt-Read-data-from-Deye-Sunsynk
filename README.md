@@ -9,5 +9,7 @@ const int PIN_LED = 2; // D4 on NodeMCU and WeMos. GPIO2/ADC12 of ESP32. Control
 Settings leds for dongle: 
 
 const int PIN_LED = 5;  // COM
+
 const int PIN_LED2 = 0; // SRV
+
 const int PIN_LED4 = 4; // NET
